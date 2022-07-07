@@ -3,7 +3,7 @@
 <!-- DROP SOME TRAVIS AND NETLIFY GOODIES HERE -->
 # Whirl
 ## CSS loading animations with minimal effort!
-## css。loading 效果!
+## css--loading 效果!
 
 [![Whirl](https://raw.github.com/jh3y/pics/master/whirl/whirl.gif)](https://raw.github.com/jh3y/pics/master/whirl/whirl.gif)
 
